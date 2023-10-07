@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656343083993",
+    "project_id": "ohmyroomate",
+    "storage_bucket": "ohmyroomate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656343083993:android:7b36a5ad73d77e7f5407c8",
+        "android_client_info": {
+          "package_name": "com.example.ohmyroomate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDp7ZW5WxVxWCrZ3ql15KGjd8sfSA0YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
