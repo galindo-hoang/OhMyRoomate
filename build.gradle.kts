@@ -8,5 +8,7 @@ plugins {
     id("com.google.dagger.hilt.android") version "2.48.1" apply false
     // authentication firebase
     id("com.google.gms.google-services") version "4.4.0" apply false
+    // serialization
+    id("org.jetbrains.kotlin.plugin.serialization") version "1.8.10"
 
 }

@@ -5,6 +5,6 @@ import com.example.ohmyroomate.domain.usecase.LoginUseCase
 import javax.inject.Inject
 
 class LoginViewModel @Inject constructor(
-    val loginUseCase: LoginUseCase
+    private val loginUseCase: LoginUseCase
 ) : ViewModel() {
 }
